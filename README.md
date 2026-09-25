@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./Saiful Islam.jpg" alt="Saiful Anik - Frontend Developer" width="100%" />
+</p>
+
 # Hi, I'm Saiful Islam
 
 ### Mern Stack Developer • WordPress & eCommerce Developer • Web Enthusiast
