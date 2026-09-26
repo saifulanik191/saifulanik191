@@ -1,10 +1,14 @@
 <p align="center">
-  <img src="./Saiful Islam.jpg" alt="Saiful Anik - Frontend Developer" width="100%" />
+  <img src="./saiful-anik.png" alt="Saiful Anik - Frontend Developer" width="100%" />
 </p>
 
 # Hi, I'm Saiful Islam
 
-### Mern Stack Developer • WordPress & eCommerce Developer • Web Enthusiast
+
+
+
+### Full Stack Developer • WordPress & eCommerce Expert • Web Enthusiast
+
 
 I’m a web developer focused on building **clean, responsive, user-friendly web experiences**.
 
@@ -33,6 +37,7 @@ I enjoy turning ideas into practical digital products, improving website perform
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
 
 ### **Backend**
@@ -51,10 +56,10 @@ I enjoy turning ideas into practical digital products, improving website perform
 
 ## 🌐 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/saifulanik)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/saiful__anik)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](https://saifulanik.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:anik8187@gmail.com)
 
 ---
 
@@ -69,27 +74,15 @@ Currently focusing on:
 * Building and deploying real-world projects
 
 ---
-
 ## 🎯 Areas of Interest
 
-```text
-Web App Development
-Interactive UI design
-Ai & Automation
-Exploring Tech
-
-```
+-Web App Development
+-Interactive UI design
+-Ai & Automation
+-Exploring Tech
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent" height="165" />
-</p>
-
----
 
 ## 📌 What I'm Working Towards
 
@@ -102,5 +95,5 @@ My goal is to build applications that are not only visually clean, but also **pe
 ---
 
 <p align="center">
-  <i>Building. Learning. Improving — one project at a time.</i>
+  <i>Building. Learning. Improving.</i>
 </p>
