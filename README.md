@@ -5,7 +5,11 @@
 # Hi, I'm Saiful Islam
 
 
-
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/saifulislamanik5872)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saifulanik)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/saiful__anik)
+[![Portfolio](https://img.shields.io/badge/Portfolio-16A34A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://saifulanik.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anik8187@gmail.com)
 
 ### Full Stack Developer • WordPress & eCommerce Expert • Web Enthusiast
 
@@ -50,20 +54,14 @@ I enjoy turning ideas into practical digital products, improving website perform
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
----
-**Also working with:**
-`Elementor` • `WooCommerce` • `Custom CSS` • `Custom JavaScript` • `Core Web Vitals` • `Basic SEO`
+###  **CMS Tools**
 
-## 🌐 Connect With Me  
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/saifulanik)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/saiful__anik)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](https://saifulanik.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:anik8187@gmail.com)
 
----
-
-Currently focusing on:
+## 🎯 Currently focusing on:
 
 * **Next.js & TypeScript**
 * React component architecture
@@ -74,23 +72,21 @@ Currently focusing on:
 * Building and deploying real-world projects
 
 ---
-## 🎯 Areas of Interest
+## 💡 Areas of Interest
 
--Web App Development
--Interactive UI design
--Ai & Automation
--Exploring Tech
-
+- Web Application Development
+- Interactive UI design
+- WordPress & eCommerce
+- AI & Automation
+- Web Performance
+- Exploring Tech
 ---
-
 
 ## 📌 What I'm Working Towards
 
 I’m working toward becoming a stronger **modern web developer** by combining my existing WordPress and eCommerce experience with a deeper understanding of the JavaScript ecosystem.
 
 My goal is to build applications that are not only visually clean, but also **performant, maintainable, accessible and practical**.
-
----
 
 ---
 
